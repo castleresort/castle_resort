@@ -1,0 +1,153 @@
+{
+    "logo":"assets/img/logo.jpg",
+    "foods": [
+        {
+            "name": "Magnam Tiste",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-3.png",
+            "price": 14.95,
+            "category": "sandwiches"
+        },
+        {
+            "name": "Tawouk Tiste",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-4.png",
+            "price": 12.33,
+            "category": "sandwiches"
+        },
+        {
+            "name": "Fajita",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-5.png",
+            "price": 9.8,
+            "category": "sandwiches"
+        },
+        {
+            "name": "Pasta",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-5.png",
+            "price": 5.95,
+            "category": "appetizers"
+        },
+        {
+            "name": "Chicken Sub",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-2.png",
+            "price": 8.6,
+            "category": "appetizers"
+        },
+        {
+            "name": "Shawarma",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-6.png",
+            "price": 20.5,
+            "category": "sandwiches"
+        },
+        {
+            "name": "Ceaser Salad",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "/assets/img/menu/menu-item-1.png",
+            "price": 3.5,
+            "category": "plates"
+        },
+        {
+            "name": "Crub Salad",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-3.png",
+            "price": 14.44,
+            "category": "plates"
+        },
+        {
+            "name": "Fries",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-4.png",
+            "price": 18.95,
+            "category": "plates"
+        },
+        {
+            "name": "Sojo2",
+            "description": "Lorem, deren, trataro, filede, nerada",
+            "image": "assets/img/menu/menu-item-2.png",
+            "price": 17.95,
+            "category": "plates"
+        }
+    ],
+    "menu": [
+        "all",
+        "appetizers",
+        "sandwiches",
+        "plates"
+    ],
+    "events": [
+        {
+            "title": "Custom Parties",
+			"price": 99,
+			"description": "Quo corporis voluptas ea ad. Consectetur inventore sapiente ipsum voluptas eos omnis facere. Enim facilis veritatis id est rem repudiandae nulla expedita quas.",
+            "image": "assets/img/events/events-1.jpg"
+        },
+        {
+            "title": "Private Parties",
+			"price": 289,
+			"description": "In delectus sint qui et enim. Et ab repudiandae inventore quaerat doloribus. Facere nemo vero est ut dolores ea assumenda et. Delectus saepe accusamus aspernatur.",
+            "image": "assets/img/events/events-2.jpg"
+        },
+        {
+            "title": "Birthday Parties",
+			"price": 499,
+			"description": "Laborum aperiam atque omnis minus omnis est qui assumenda quos. Quis id sit quibusdam. Esse quisquam ducimus officia ipsum ut quibusdam maxime. Non enim perspiciatis.",
+            "image": "assets/img/events/events-3.jpg"
+        }
+    ],
+	"chefs":[
+	{
+		"name":"Walter White",
+		"rank":"Master Chef",
+		"description":"Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.",
+		"image":"assets/img/chefs/chefs-1.jpg",
+		"facebook":"www.facebook.com",
+		"instagram":"www.instagram.com"
+	},
+	{
+		"name":"Sarah Jhonson",
+		"rank":"Patissier",
+		"description":"Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.",
+		"image":"assets/img/chefs/chefs-2.jpg",
+		"facebook":"www.facebook.com",
+		"instagram":"www.instagram.com"
+	},
+	{
+		"name":"William Anderson",
+		"rank":"Cook",
+		"description":"Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.",
+		"image":"assets/img/chefs/chefs-3.jpg",
+		"facebook":"www.facebook.com",
+		"instagram":"www.instagram.com"
+	}
+	],
+	"gallery":[
+	"assets/img/gallery/gallery-1.jpg",
+	"assets/img/gallery/gallery-2.jpg",
+	"assets/img/gallery/gallery-3.jpg",
+	"assets/img/gallery/gallery-4.jpg",
+	"assets/img/gallery/gallery-5.jpg",
+	"assets/img/gallery/gallery-6.jpg",
+	"assets/img/gallery/gallery-7.jpg",
+	"assets/img/gallery/gallery-8.jpg"
+	
+	],
+	"contactUs":{
+		"mapLink":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621",
+		"address":"A108 Adam Street, New York, NY 535022",
+		"email":"contact@example.com",
+		"phone":"+1 5589 55488 55",
+		"openingHours":"<div><strong>Mon-Sat:</strong> 11AM - 23PM</div><div><strong>Sunday:</strong> Closed</div"
+	},
+	"followUs":{
+		"twitter":"https://www.twitter.com",
+		"facebook":"https://www.facebook.com",
+		"instagram":"https://www.instagram.com",
+		"linkedin":"https://www.linkedin.com"
+
+	}
+
+}

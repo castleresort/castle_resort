@@ -70,7 +70,7 @@
             "image": "assets/img/menu/menu-item-2.png",
             "price": 17.95,
             "category": "plates"
-        }
+        },
     ],
     "menu": [
         "all",
